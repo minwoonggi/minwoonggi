@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BACKJOON_ID)
 
 ### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&include_all_commits=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwoonggi&show_icons=true&theme=default&include_all_commits=true&count_private=true)
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minwoonggi&layout=compact&theme=default)
