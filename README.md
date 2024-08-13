@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 💬 Profile
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BACKJOON_ID)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=d34sda334)
 
 ### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwoonggi&show_icons=true&theme=default&include_all_commits=true&count_private=true)
