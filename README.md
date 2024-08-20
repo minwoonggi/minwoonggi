@@ -12,7 +12,7 @@ I am a student who keeps trying to learn
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwoonggi&show_icons=true&theme=default&include_all_commits=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwoonggi&show_icons=true&theme=default&count_private=true)
 
 ## 🔥 Most Used Languages
 
