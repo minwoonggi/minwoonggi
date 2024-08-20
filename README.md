@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwoonggi&show_icons=true&theme=default&include_all_commits=true&count_private=true)
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minwoonggi&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minwoonggi&layout=compact&theme=defaul)
