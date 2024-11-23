@@ -10,6 +10,8 @@ I am a student who keeps trying to learn
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" style="height: 20px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" style="height: 20px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" style="height: 20px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge" style="height: 20px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" style="height: 20px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" style="height: 20px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge" style="height: 20px;"></a>
 
@@ -22,4 +24,10 @@ I am a student who keeps trying to learn
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwoonggi&show_icons=true&title_color=ffc300&text_color=000000&icon_color=ffc300&bg_color=fffdf0&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwoonggi&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=F9D976,F39F18,DAA520&hide_border=true&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
