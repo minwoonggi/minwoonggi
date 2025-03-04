@@ -25,6 +25,10 @@ I am a student who keeps trying to learn
 <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" style="height: 20px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT Badge" style="height: 20px;"></a>
 
+*Databases*  
+
+<a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" style="height: 20px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge" style="height: 20px;"></a>
 
 *Frameworks & Libraries*
 
