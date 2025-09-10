@@ -48,8 +48,15 @@
 
 <!-- Gitanimals 배너 -->
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minwoonggi&utm_content=farm">
-  <img src="https://render.gitanimals.org/farms/minwoonggi" width="1000" height="250" alt="Gitanimals Farm - minwoonggi"/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minwoonggi&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/minwoonggi?pet-id=753517780113663562"
+    width="800"
+    height="120"
+  />
 </a>
+  </a>
 
 
 </div>
