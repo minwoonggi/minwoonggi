@@ -8,7 +8,7 @@
   <img
     src="https://render.gitanimals.org/lines/minwoonggi?pet-id=753517780113663562"
     width="800"
-    height="120"
+    height="220"
   />
   </a>
 
