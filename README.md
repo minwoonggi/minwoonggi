@@ -3,16 +3,10 @@
 # WellCome🌟
 **I am a student who keeps 🍌🐱😭**
 
-<br/>
-
 <!-- Gitanimals 배너 -->
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minwoonggi&utm_content=farm">
   <img src="https://render.gitanimals.org/farms/minwoonggi" width="720" height="300" alt="Gitanimals Farm - minwoonggi"/>
 </a>
-
-<br/><br/>
-
-
 
 ## Tech Stack
 
