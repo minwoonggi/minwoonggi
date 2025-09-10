@@ -1,47 +1,67 @@
-## Hi there 👋
-I am a student who keeps trying to learn
+<div align="center">
+  
+# WellCome🌟
+**I am a student who keeps 🍌🐱😭**
 
-## Tech Stack & Learning
-*Languages & Tools*  
+<br/>
 
-<a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" style="height: 20px;"></a>
-<a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge" style="height: 20px;"></a>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" style="height: 20px;"></a>
-<a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" style="height: 20px;"></a>
-<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" style="height: 20px;"></a>
-<a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" style="height: 20px;"></a>
+<!-- Gitanimals 배너 -->
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minwoonggi&utm_content=farm">
+  <img src="https://render.gitanimals.org/farms/minwoonggi" width="720" height="300" alt="Gitanimals Farm - minwoonggi"/>
+</a>
 
-*Frontend*  
-
-<a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" style="height: 20px;"></a>
-<a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" style="height: 20px;"></a>
-<a href="#"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge" style="height: 20px;"></a>
-<a href="#"><img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" style="height: 20px;"></a>
-<a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge" style="height: 20px;"></a>
-
-*Backend & Databases*  
-
-<a href="#"><img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC Badge" style="height: 20px;"></a>
-<a href="#"><img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security Badge" style="height: 20px;"></a>
-<a href="#"><img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA Badge" style="height: 20px;"></a>
-<a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" style="height: 20px;"></a>
-<a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge" style="height: 20px;"></a>
+<br/><br/>
 
 
 
+## Tech Stack
+
+<p align="center">
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="24"/>
+
+<br/>
+
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB" height="24"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Zustand-181717?style=flat" height="24"/>
+
+<br/>
+
+<!-- Backend & DB -->
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="24"/>
+
+</p>
 
 
-## 🐳 Baekjoon
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=d34sda334)](https://solved.ac/profile/d34sda334)
+## Dev Records
 
 
-## 📊 GitHub Stats
+<p align="center">
+  <a href="https://solved.ac/profile/d34sda334">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=d34sda334" alt="Solved.ac Profile" height="150"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=minwoonggi&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=F9D976,F39F18,DAA520&hide_border=true&border_radius=12" alt="GitHub Stats" height="150"/>
+  </a>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwoonggi&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=F9D976,F39F18,DAA520&hide_border=true&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minwoonggi&theme=dark&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" height="150"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minwoonggi&layout=compact&title_color=FFD700&text_color=FFD700&bg_color=000000&hide_border=true" height="150"/>
+</p>
 
 
-
-
-
-
+</div>
