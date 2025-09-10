@@ -1,14 +1,10 @@
 <div align="center">
   
-# WellCome🌟
+<h3>WellCome🌟</h3>
+
 **I am a student who keeps 🍌🐱😭**
 
-<!-- Gitanimals 배너 -->
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minwoonggi&utm_content=farm">
-  <img src="https://render.gitanimals.org/farms/minwoonggi" width="720" height="300" alt="Gitanimals Farm - minwoonggi"/>
-</a>
-
-## Tech Stack
+<h3> Tech Stack </h3>
 
 <p align="center">
 
@@ -39,23 +35,21 @@
 </p>
 
 
-## Dev Records
+<h3> Dev Records </h3>
 
 
 <p align="center">
-  <a href="https://solved.ac/profile/d34sda334">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=d34sda334" alt="Solved.ac Profile" height="150"/>
-  </a>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minwoonggi&theme=dark&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" height="150"/>
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=minwoonggi&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=F9D976,F39F18,DAA520&hide_border=true&border_radius=12" alt="GitHub Stats" height="150"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minwoonggi&theme=dark&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minwoonggi&layout=compact&title_color=FFD700&text_color=FFD700&bg_color=000000&hide_border=true" height="150"/>
-</p>
+<!-- Gitanimals 배너 -->
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minwoonggi&utm_content=farm">
+  <img src="https://render.gitanimals.org/farms/minwoonggi" width="720" height="300" alt="Gitanimals Farm - minwoonggi"/>
+</a>
 
 
 </div>
