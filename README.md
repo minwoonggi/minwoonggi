@@ -4,13 +4,13 @@
 
 **I am a student who keeps 🍌🐱😭**
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minwoonggi&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/minwoonggi?pet-id=753517780113663562"
-    width="800"
-    height="220"
-  />
-  </a>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minwoonggi&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/minwoonggi"
+  width="600"
+  height="300"
+/>
+</a>
 
 <h3> Tech Stack </h3>
 
